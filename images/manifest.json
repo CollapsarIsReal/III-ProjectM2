@@ -1,0 +1,66 @@
+{
+  "id" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in CollapsarIsReal/III-ProjectM2 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1722,
+    "id" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/m-1_20220221/canvas/",
+    "label" : {
+      "none" : [ "m-1_20220221" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/m-1_20220221/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/m-1_20220221/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 54,
+              "height" : 81
+            }, {
+              "width" : 108,
+              "height" : 161
+            }, {
+              "width" : 216,
+              "height" : 321
+            }, {
+              "width" : 431,
+              "height" : 642
+            }, {
+              "width" : 861,
+              "height" : 1284
+            }, {
+              "width" : 1722,
+              "height" : 2568
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1722,
+            "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/m-1_20220221",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2568
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1722,
+          "id" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/m-1_20220221/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2568
+        },
+        "target" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/m-1_20220221/canvas/"
+      } ]
+    } ],
+    "height" : 2568
+  } ]
+}
