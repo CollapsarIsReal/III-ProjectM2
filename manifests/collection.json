@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifest2.json",
-    "label" : "[Click to edit label]"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifest8.json",
     "label" : [ {
       "@value" : "Manifeste IIIF",
