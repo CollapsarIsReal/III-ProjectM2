@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifest2.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifest2",
+    "label" : "[Click to edit label]"
   } ]
 }
