@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 54,
+    "height" : 81
+  }, {
+    "width" : 108,
+    "height" : 161
+  }, {
+    "width" : 216,
+    "height" : 321
+  }, {
+    "width" : 431,
+    "height" : 642
+  }, {
+    "width" : 861,
+    "height" : 1284
+  }, {
+    "width" : 1722,
+    "height" : 2568
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1722,
+  "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/images/m-1_20220221",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2568
+}
