@@ -12,5 +12,9 @@
       "@value" : "Manifeste IIIF",
       "@language" : "fr"
     } ]
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
