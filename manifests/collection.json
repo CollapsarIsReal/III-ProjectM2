@@ -19,12 +19,5 @@
       "@value" : "Manifeste IIIF",
       "@language" : "fr"
     } ]
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifest6bis.json",
-    "label" : [ {
-      "@value" : "Manifeste IIIF",
-      "@language" : "fr"
-    } ]
   } ]
 }
