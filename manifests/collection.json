@@ -5,5 +5,12 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifest5.json",
+    "label" : [ {
+      "@value" : "Manifeste IIIF",
+      "@language" : "fr"
+    } ]
+  } ]
 }
