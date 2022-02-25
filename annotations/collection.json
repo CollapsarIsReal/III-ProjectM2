@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/712a606f641343b20d27584e026df011.json", "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/602555f7120bf457b5bb3b3f2fe701d2.json", "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/a1f79fdc6bdb989d4628887af43288ce.json" ],
+  "otherContent" : [ "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/602555f7120bf457b5bb3b3f2fe701d2.json", "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/a1f79fdc6bdb989d4628887af43288ce.json" ],
   "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/collection.json",
   "label" : "All annotations loaded in CollapsarIsReal/III-ProjectM2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
