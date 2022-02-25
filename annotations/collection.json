@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/4c05c87f01edfc6256c17483a85c2edc.json" ],
+  "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/collection.json",
+  "label" : "All annotations loaded in CollapsarIsReal/III-ProjectM2 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
