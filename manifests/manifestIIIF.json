@@ -6,6 +6,11 @@
     "@value" : "Manifeste IIIF",
     "@language" : "fr"
   } ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92538363/f9ebfc9fe429e3370afd67ff8710d0d7/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : "Elsa Falcoz"
@@ -61,6 +66,11 @@
         },
         "on" : "http://9134307b-990b-4cc3-9f05-df98ce64712c"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://collapsarisreal.github.io/III-ProjectM2/annotations/a1f79fdc6bdb989d4628887af43288ce.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://fc35d442-61d3-4505-b526-2364e071643a",
@@ -86,6 +96,11 @@
           "width" : 1024
         },
         "on" : "http://fc35d442-61d3-4505-b526-2364e071643a"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://collapsarisreal.github.io/III-ProjectM2/annotations/602555f7120bf457b5bb3b3f2fe701d2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -113,6 +128,11 @@
         },
         "on" : "http://fb665bc4-dca5-4508-a332-37d912cfff84"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://collapsarisreal.github.io/III-ProjectM2/annotations/712a606f641343b20d27584e026df011.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d",
@@ -138,6 +158,11 @@
           "width" : 3573
         },
         "on" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://collapsarisreal.github.io/III-ProjectM2/annotations/4c05c87f01edfc6256c17483a85c2edc.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
