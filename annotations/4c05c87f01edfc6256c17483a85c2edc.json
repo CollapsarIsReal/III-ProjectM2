@@ -1,0 +1,262 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "object",
+      "@type" : "oa:Tag",
+      "chars" : "object"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "laisse",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>laisse</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92538363",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-24T10:19:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645697944573",
+    "dcterms:modified" : "2022-02-24T10:19:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifestIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1328,1807,451,847"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1332.04345,2473.46674l100.1345,-219.52562l204.12032,-192.56634l38.51327,-119.39113l-50.06725,-53.91857l3.85133,-77.02653l69.32388,-3.85133l69.32388,57.7699l11.55398,123.24246l-30.81061,111.68848l-96.28317,92.43184l-111.68848,96.28317l-80.87786,119.39113l-23.10796,115.5398l-7.70265,107.83715l-50.06725,23.10796l-50.06725,-23.10796v-77.02653l3.85133,-84.72919v15.40531v-11.55398l3.85133,-7.70265v-3.85133z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_55e19c9e-37b4-4bc4-86c6-4ad41e1ba0d7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"5,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "outil",
+      "@type" : "oa:Tag",
+      "chars" : "outil"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "houe",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>houe</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92538363",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-24T10:13:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645697623169",
+    "dcterms:modified" : "2022-02-24T10:13:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifestIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2430,881,661,900"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2430.04398,880.88164h330.42708v0h330.42708v450.21875v450.21875h-330.42708h-330.42708v-450.21875z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_83fe47b3-f366-4c0f-af04-d5a16489e4f9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#fff100\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"5,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pour la r&eacute;colte il &eacute;tait recommand&eacute; d'attacher la mandragore &agrave; un chien et attirer l'animal au loin, la mal&eacute;diction s'abattant ainsi sur l'animal.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pour la r&eacute;colte il &eacute;tait recommand&eacute; d'attacher la mandragore &agrave; un chien et attirer l'animal au loin, la mal&eacute;diction s'abattant ainsi sur l'animal.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "dog",
+      "@type" : "oa:Tag",
+      "chars" : "dog"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92538363",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T10:11:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645697480341",
+    "dcterms:modified" : "2022-02-26T15:39:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifestIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1229,2106,1238,1075"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1228.66667,2106.33334h619.125v0h619.125v537.66667v537.66667h-619.125h-619.125v-537.66667z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_7eb3ce64-15c6-444e-a005-eb1d80641bff\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"69\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"5,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifestIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1277,2317,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1276.58153,2317.16847l1,-0.0018v0l1,-0.0018l0.0018,1l0.0018,1l-1,0.0018l-1,0.0018l-0.0018,-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-0.10313740375755565,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_d088bdfb-4186-43cb-95c1-227b740515c4\" fill-opacity=\"0.09\" fill=\"#ffef00\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"69\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"5,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mandragore homme/femme ?",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>mandragore homme/femme ?</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mandragore",
+      "@type" : "oa:Tag",
+      "chars" : "mandragore"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "woman",
+      "@type" : "oa:Tag",
+      "chars" : "woman"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "man",
+      "@type" : "oa:Tag",
+      "chars" : "man"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92538363",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T10:13:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645697581344",
+    "dcterms:modified" : "2022-02-24T10:13:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifestIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1376,1630,387,522"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1376.25937,1630.38458h193.56634v0h193.56634v260.96455v260.96455h-193.56634h-193.56634v-260.96455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_32d41143-555d-4a57-8a9b-37b2f1320935\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"5,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le collecteur de mandragore qui entend le cri effroyable pouss&eacute; par la plante lorsqu'il l'arrache du sol peut devenir fou et s'expose &agrave; la mort. On recommande ainsi de se boucher les oreilles avec de la cire (<a title=\"pr&eacute;caution de r&eacute;colte\" href=\"https://fr.wikipedia.org/wiki/Mandragore\" target=\"_blank\" rel=\"noopener\">https://fr.wikipedia.org/wiki/Mandragore)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Le collecteur de mandragore qui entend le cri effroyable pouss&eacute; par la plante lorsqu'il l'arrache du sol peut devenir fou et s'expose &agrave; la mort. On recommande ainsi de se boucher les oreilles avec de la cire (<a title=\"pr&eacute;caution de r&eacute;colte\" href=\"https://fr.wikipedia.org/wiki/Mandragore\" target=\"_blank\" rel=\"noopener\">https://fr.wikipedia.org/wiki/Mandragore</a>)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "man",
+      "@type" : "oa:Tag",
+      "chars" : "man"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "gathering",
+      "@type" : "oa:Tag",
+      "chars" : "gathering"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92538363",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T10:12:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645697524200",
+    "dcterms:modified" : "2022-02-26T15:03:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifestIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2291,677,876,2164"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2290.5,676.5h438v0h438v1082v1082h-438h-438v-1082z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0,1],&quot;editable&quot;:true}\" id=\"rectangle_798e6056-a179-48a4-839e-cae486cd9ab3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"27.72955\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"5,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "On retrouve <a title=\"image fruits\" href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mandragore_officinale_fruits.jpg/320px-Mandragore_officinale_fruits.jpg\" target=\"_blank\" rel=\"noopener\">les m&ecirc;mes fruits que sur les autres repr&eacute;sentations",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>On retrouve <a title=\"image fruits\" href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mandragore_officinale_fruits.jpg/320px-Mandragore_officinale_fruits.jpg\" target=\"_blank\" rel=\"noopener\">les m&ecirc;mes fruits</a> que sur les autres repr&eacute;sentations</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "plant",
+      "@type" : "oa:Tag",
+      "chars" : "plant"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "fruits",
+      "@type" : "oa:Tag",
+      "chars" : "fruits"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92538363",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T10:10:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645697440473",
+    "dcterms:modified" : "2022-02-26T15:37:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/manifests/manifestIIIF.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=623,619,420,510"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M684.46507,693.61899c38.79604,-42.82193 93.52415,-74.70997 148.51747,-74.67187v0v0c54.99332,0.0381 102.90172,29.86884 148.51747,74.67187c45.61575,44.80303 63.34601,113.07419 61.51795,180.27384c-1.82806,67.19965 -23.21444,133.3278 -61.51795,180.27384c-38.30351,46.94604 -93.52415,74.70997 -148.51747,74.67187c-54.99332,-0.0381 -109.75931,-27.87822 -148.51747,-74.67187c-38.75816,-46.79365 -61.50848,-112.54081 -61.51795,-180.27384c-0.00947,-67.73303 22.72191,-137.45191 61.51795,-180.27384z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_1b69d4a9-57f5-4061-875d-0ffdba3bf56c\" fill-opacity=\"0.09\" fill=\"#ffef00\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"69\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f53900a8-d4ce-424b-a0ce-45b3f5411a7d"
+    } ]
+  } ],
+  "@id" : "https://CollapsarIsReal.github.io/III-ProjectM2/annotations/4c05c87f01edfc6256c17483a85c2edc.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
